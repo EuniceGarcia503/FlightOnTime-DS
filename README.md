@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/EuniceGarcia503/FlightOnTime/refs/heads/main/Imagenes/banner_readme_DS.png)
+![Logo](https://raw.githubusercontent.com/EuniceGarcia503/FlightOnTime-DS/refs/heads/main/images/banner%20_repo_DS.png)
 ---
 
 ## Estado del proyecto.
