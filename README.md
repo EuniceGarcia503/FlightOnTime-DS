@@ -16,6 +16,9 @@
 - `images/`: recursos visuales del proyecto (banner, diagramas).
 - `requirements.txt`: librerías utilizadas.
 
+> Nota: los datos en `data/raw/` se conservan sin modificaciones; cualquier transformación se realiza sobre copias en `data/processed/`.
+
+
 ## Descripción.
 🤖 Este proyecto busca aplicar modelos de *Machine Learning* y algoritmos de **clasificación binaria**, basados en datos históricos de vuelos.
 
