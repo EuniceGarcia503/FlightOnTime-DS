@@ -6,13 +6,15 @@
 
 ## Estructura del Repositorio.
 
-- data/: datasets del proyecto.
-- notebooks/: flujo principal de Data Science.
-- models/: modelo entrenado.
-- doc/: docuentación y análisis de apoyo.
-- src/: código reutilizable.
-- requirements.txt : librerias utilizadas.
-- images/: banners de identificación.
+- `data/`: datasets del proyecto.
+  - `raw/`: datos originales sin modificaciones.
+  - `processed/`: datos limpios y preparados para el modelado.
+- `notebooks/`: flujo principal de Data Science (EDA, preparación y modelado).
+- `models/`: modelo entrenado listo para ser consumido por la API.
+- `docs/`: documentación y análisis de apoyo.
+- `src/`: código reutilizable (preprocesamiento y features).
+- `images/`: recursos visuales del proyecto (banner, diagramas).
+- `requirements.txt`: librerías utilizadas.
 
 ## Descripción.
 🤖 Este proyecto busca aplicar modelos de *Machine Learning* y algoritmos de **clasificación binaria**, basados en datos históricos de vuelos.
