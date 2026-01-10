@@ -4,6 +4,14 @@
 ## Estado del proyecto.
 🏗️ En construcción. 
 
+## Estructura del Repositorio.
+
+- data/: datasets del proyecto.
+- notebooks/: flujo principal de Data Science.
+- doc/: docuentación y análisis de apoyo.
+- src/: código reutilizable.
+- requirements.txt : librerias utilizadas.
+
 ## Descripción.
 🤖 Este proyecto busca aplicar modelos de *Machine Learning* y algoritmos de **clasificación binaria**, basados en datos históricos de vuelos.
 
