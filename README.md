@@ -8,9 +8,11 @@
 
 - data/: datasets del proyecto.
 - notebooks/: flujo principal de Data Science.
+- models/: modelo entrenado.
 - doc/: docuentación y análisis de apoyo.
 - src/: código reutilizable.
 - requirements.txt : librerias utilizadas.
+- images/: banners de identificación.
 
 ## Descripción.
 🤖 Este proyecto busca aplicar modelos de *Machine Learning* y algoritmos de **clasificación binaria**, basados en datos históricos de vuelos.
