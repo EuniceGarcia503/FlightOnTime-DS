@@ -45,7 +45,7 @@ data/
 
 notebooks/
 └── Notebooks que contienen el flujo principal de Data Science:
-    exploración de datos (EDA), preparación y entrenamiento del modelo.
+    exploración de datos (EDA),feature engineering, preparación y entrenamiento del modelo; evaluación.
 
 models/
 └── Modelo entrenado y serializado, listo para ser consumido por la API.
