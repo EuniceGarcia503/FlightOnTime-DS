@@ -4,39 +4,44 @@
 ## Estado del proyecto.
 🏗️ En construcción. 
 
-## Estructura del Repositorio.
+# FlightOnTime – Data Science Module
 
-- `data/`: datasets del proyecto.
-  - `raw/`: datos originales sin modificaciones.
-  - `processed/`: datos limpios y preparados para el modelado.
-- `notebooks/`: flujo principal de Data Science (EDA, preparación y modelado).
-- `models/`: modelo entrenado listo para ser consumido por la API.
-- `docs/`: documentación y análisis de apoyo.
-- `src/`: código reutilizable (preprocesamiento y features).
-- `images/`: recursos visuales del proyecto (banner, diagramas).
-- `requirements.txt`: librerías utilizadas.
+Este directorio contiene todo el trabajo del equipo de Data Science para el proyecto **FlightOnTime**.
 
-> Nota: los datos en `data/raw/` se conservan sin modificaciones; cualquier transformación se realiza sobre copias en `data/processed/`.
+El objetivo del módulo es desarrollar un modelo de Machine Learning que permita predecir si un vuelo comercial despegará **puntual o retrasado**, a partir de datos históricos de vuelos.
 
+Este módulo forma parte del repositorio principal del proyecto y está diseñado para integrarse con una API REST desarrollada por el equipo de Back-End.
 
-## Descripción.
-🤖 Este proyecto busca aplicar modelos de *Machine Learning* y algoritmos de **clasificación binaria**, basados en datos históricos de vuelos.
+---
 
-🎯 Su objetivo principal será el **estimar el riesgo de retraso** y determinar si un vuelo **despegará a tiempo o no**.
+## Estructura del proyecto
 
-### Inputs a utilizar:
-- Aerolínea.
-- Aeropuerto de origen.  
-- Aeropuerto de destino.  
-- Fecha de partida.  
-- Distancia del vuelo. 
+```text
+data/
+├── raw/
+│   └── Datos originales sin modificaciones.
+├── processed/
+│   └── Datos limpios y preparados para el modelado.
 
-### Outputs deseados:
-- Predicción del estado del vuelo (a tiempo / retrasado). 
-- Probabilidad asociada a la predicción.
+notebooks/
+└── Notebooks que contienen el flujo principal de Data Science:
+    exploración de datos (EDA), preparación y entrenamiento del modelo.
 
-## Dataset.
-📌 Información sobre la fuente de datos y su estructura será incorporada en esta sección.
+models/
+└── Modelo entrenado y serializado, listo para ser consumido por la API.
 
-## Uso de los Notebooks.
-📌 En esta sección se documentará el flujo de trabajo y el orden recomendado de ejecución de los notebooks.
+src/
+└── Código reutilizable del proyecto:
+    funciones de preprocesamiento, feature engineering y utilidades.
+
+docs/
+└── Documentación de apoyo:
+    definiciones del problema, decisiones técnicas y análisis explicativos.
+
+images/
+└── Recursos visuales del proyecto:
+    diagramas, esquemas y material gráfico para presentaciones.
+
+requirements.txt
+└── Librerías necesarias para ejecutar los notebooks y scripts del módulo.
+
