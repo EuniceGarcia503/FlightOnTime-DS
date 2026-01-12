@@ -56,7 +56,7 @@ src/
 
 docs/
 └── Documentación de apoyo:
-    Análisis explicativos, decisiones técnicas, definiciones del problema.
+    Todo lo que explica, argumenta o fundamenta decisiones.
 
 images/
 └── Recursos visuales del proyecto:
