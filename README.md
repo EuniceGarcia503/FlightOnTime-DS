@@ -1,20 +1,18 @@
-![Logo](https://raw.githubusercontent.com/EuniceGarcia503/FlightOnTime-DS/refs/heads/main/images/banner%20_repo_DS.png)
+![Logo](https://raw.githubusercontent.com/EuniceGarcia503/FlightOnTime-DS/refs/heads/main/images/banner%20_repo_DS%20(1).png)
 ---
 
-## Estado del proyecto.
+# Estado del proyecto.
 🏗️ En construcción. 
 
-# FlightOnTime – Data Science Module
+# Descripción.
 
-Este directorio contiene todo el trabajo del equipo de Data Science para el proyecto **FlightOnTime**.
-
-El objetivo del módulo es desarrollar un modelo de Machine Learning que permita predecir si un vuelo comercial despegará **puntual o retrasado**, a partir de datos históricos de vuelos.
-
-Este módulo forma parte del repositorio principal del proyecto y está diseñado para integrarse con una API REST desarrollada por el equipo de Back-End.
+Este submódulo contiene el trabajo del equipo de Data Science del proyecto FlightOnTime.
+Su objetivo es desarrollar un modelo de Machine Learning capaz de predecir si un vuelo comercial despegará puntual o con retraso, utilizando datos históricos de vuelos.
+El modelo resultante será consumido por una API REST desarrollada por el equipo de Back-End, como parte de un MVP de hackathon.
 
 ---
 
-## Estructura del proyecto
+# Estructura.
 
 ```text
 data/
