@@ -14,6 +14,26 @@ El modelo resultante será consumido por una API REST desarrollada por el equipo
 
 ---
 
+## Alcance.
+
+El trabajo del equipo de Data Science en este proyecto cubre las siguientes etapas:
+
+- [Decisiones sobre estructura y documentación.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/decisiones_repo_y_documentacion.ipynb)
+- [Definición del problema de negocio.](ruta)  
+- [Traducción del problema a un problema de Machine Learning.](ruta)  
+- [Definición de la variable objetivo (target).](ruta)  
+- [Descripción y comprensión del dataset.](ruta)  
+- [Exploración de datos (EDA) enfocada en conclusiones.](ruta)  
+- [Preparación de datos para el modelado.](ruta)  
+- [Feature engineering con foco en información disponible antes del despegue.](ruta)  
+- [Selección de un modelo adecuado para un MVP.](ruta)  
+- [Entrenamiento del modelo.](ruta)  
+- [Evaluación del desempeño del modelo.](ruta)  
+- [Exportación del modelo e integración con la API](ruta)  
+
+Este módulo no aborda la implementación de la API ni componentes de Front-End.
+
+---
 ## Estructura.
 
 ```text
@@ -46,25 +66,6 @@ requirements.txt
 └── Librerías necesarias para ejecutar los notebooks y scripts del módulo.
 
 ```
----
-## Alcance.
-
-El trabajo del equipo de Data Science en este proyecto cubre las siguientes etapas:
-
-- [Decisiones sobre estructura y documentación.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/decisiones_repo_y_documentacion.ipynb)
-- [Definición del problema de negocio.](ruta)  
-- [Traducción del problema a un problema de Machine Learning.](ruta)  
-- [Definición de la variable objetivo (target).](ruta)  
-- [Descripción y comprensión del dataset.](ruta)  
-- [Exploración de datos (EDA) enfocada en conclusiones.](ruta)  
-- [Preparación de datos para el modelado.](ruta)  
-- [Feature engineering con foco en información disponible antes del despegue.](ruta)  
-- [Selección de un modelo adecuado para un MVP.](ruta)  
-- [Entrenamiento del modelo.](ruta)  
-- [Evaluación del desempeño del modelo.](ruta)  
-- [Exportación del modelo e integración con la API](ruta)  
-
-Este módulo no aborda la implementación de la API ni componentes de Front-End.
 
 
 
