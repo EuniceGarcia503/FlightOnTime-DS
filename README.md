@@ -51,7 +51,7 @@ requirements.txt
 
 El trabajo del equipo de Data Science en este proyecto cubre las siguientes etapas:
 
-- [Decisiones sobre estructura y documentación.](ruta)
+- [Decisiones sobre estructura y documentación.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/decisiones_repo_y_documentacion.ipynb)
 - [Definición del problema de negocio.](ruta)  
 - [Traducción del problema a un problema de Machine Learning.](ruta)  
 - [Definición de la variable objetivo (target).](ruta)  
