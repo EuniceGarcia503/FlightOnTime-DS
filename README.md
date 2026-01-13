@@ -12,14 +12,15 @@ Este módulo contiene el trabajo del equipo de Data Science del proyecto FlightO
 Su objetivo es desarrollar un modelo de Machine Learning capaz de predecir si un vuelo comercial despegará puntual o con retraso, utilizando datos históricos de vuelos.
 El modelo resultante será consumido por una API REST desarrollada por el equipo de Back-End, como parte de un MVP de hackathon.
 
+- [Decisiones sobre estructura y documentación.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/decisiones_repo_y_documentacion.ipynb)
+
 ---
 
 ## Alcance.
 
 El trabajo del equipo de Data Science en este proyecto cubre las siguientes etapas:
 
-- [Decisiones sobre estructura y documentación.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/decisiones_repo_y_documentacion.ipynb)
-- [Definición del problema de negocio.](ruta)  
+- [Definición del problema de negocio.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/02_metodolog%C3%ADa_definici%C3%B3n_problema.ipynb)  
 - [Traducción del problema a un problema de Machine Learning.](ruta)  
 - [Definición de la variable objetivo (target).](ruta)  
 - [Descripción y comprensión del dataset.](ruta)  
