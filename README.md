@@ -21,7 +21,7 @@ El modelo resultante será consumido por una API REST desarrollada por el equipo
 El trabajo del equipo de Data Science en este proyecto cubre las siguientes etapas:
 
 - [Definición del problema de negocio.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/02_metodolog%C3%ADa_definici%C3%B3n_problema.ipynb)  
-- [Traducción del problema a un problema de Machine Learning.](ruta)  
+- [Traducción del problema de negocio a un problema de Machine Learning.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/04_metodolog%C3%ADa_problema_ml.ipynb)  
 - [Definición de la variable objetivo (target).](ruta)  
 - [Descripción y comprensión del dataset.](ruta)  
 - [Exploración de datos (EDA) enfocada en conclusiones.](ruta)  
