@@ -24,7 +24,10 @@ El trabajo del equipo de Data Science en este proyecto cubre las siguientes etap
   
   [Justificación y decisiones adoptadas.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/justificacion/01_justificacion_problema_negocio.ipynb)
   
-- [Definición del problema de Machine Learning.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/documentacion/definicion_del_problema_ml.ipynb)  
+- [Definición del problema de Machine Learning.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/documentacion/definicion_del_problema_ml.ipynb)
+
+  [Justificación y decisiones adoptadas.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/justificacion/02_justificaci%C3%B3n_problema_ml.ipynb)
+  
 - [Definición de la variable objetivo (target).](ruta)  
 - [Descripción y comprensión del dataset.](ruta)  
 - [Exploración de datos (EDA) enfocada en conclusiones.](ruta)  
