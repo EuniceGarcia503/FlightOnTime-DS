@@ -56,8 +56,11 @@ src/
     funciones de preprocesamiento, feature engineering y utilidades.
 
 docs/
-└── Documentación de apoyo:
-    Todo lo que explica, argumenta o fundamenta decisiones.
+├── docs/justificacion/
+│   └── documentos que explican y fundamentan decisiones
+       conceptuales y técnicas.
+├── docs/documentacion/
+│   └── documentos formales que definen el problema, el alcance y las reglas utilizadas en el proyecto.
 
 images/
 └── Recursos visuales del proyecto:
