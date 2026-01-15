@@ -37,7 +37,7 @@ El trabajo del equipo de Data Science en este proyecto cubre las siguientes etap
    
 - [Descripción y comprensión del dataset.](ruta)
 
-  [Justificación para la elección del dataset.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/justificacion/04_justificacion_eleccion_dataset.ipynb)
+  [Justificación para la elección del dataset.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/justificacion/05_justificacion_eleccion_dataset.ipynb)
   
 - [Exploración de datos (EDA) enfocada en conclusiones.](ruta)
 - [Preparación de datos para el modelado.](ruta)  
