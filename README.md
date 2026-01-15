@@ -32,7 +32,7 @@ El trabajo del equipo de Data Science en este proyecto cubre las siguientes etap
   
 - [Definición del target.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/documentacion/definicion_del_target.ipynb)
 
-  [Justificación definición del target.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/justificacion/03_justificaci%C3%B3n_target.ipynb)
+  [Justificación del target.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/justificacion/04_justificaci%C3%B3n_target.ipynb)
   
    
 - [Descripción y comprensión del dataset.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/documentacion/descripcion_comprension_dataset.ipynb)
