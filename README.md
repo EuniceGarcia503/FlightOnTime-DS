@@ -35,9 +35,9 @@ El trabajo del equipo de Data Science en este proyecto cubre las siguientes etap
   [Justificación definición del target.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/justificacion/03_justificaci%C3%B3n_target.ipynb)
   
    
-- [Descripción y comprensión del dataset.](ruta)
+- [Descripción y comprensión del dataset.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/documentacion/descripcion_comprension_dataset.ipynb)
 
-  [Justificación para la elección del dataset.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/justificacion/05_justificacion_eleccion_dataset.ipynb)
+  [Justificación de la elección del dataset.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/justificacion/05_justificacion_eleccion_dataset.ipynb)
   
 - [Exploración de datos (EDA) enfocada en conclusiones.](ruta)
 - [Preparación de datos para el modelado.](ruta)  
