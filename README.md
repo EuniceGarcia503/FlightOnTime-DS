@@ -29,6 +29,7 @@ El trabajo del equipo de Data Science en este proyecto cubre las siguientes etap
   [Justificación y decisiones adoptadas.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/justificacion/02_justificaci%C3%B3n_problema_ml.ipynb)
   
 - [Definición del target.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/documentacion/definicion_del_target.ipynb)
+
   [Justificación y decisiones adoptadas.]()
    
 - [Descripción y comprensión del dataset.](ruta)  
