@@ -22,18 +22,24 @@ El trabajo del equipo de Data Science en este proyecto cubre las siguientes etap
 
 - [Definición del problema de negocio.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/documentacion/definicion_del_problema_de_negocio.ipynb)
   
-  [Justificación y decisiones adoptadas.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/justificacion/01_justificacion_problema_negocio.ipynb)
+  [Justificación del problema de negocio.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/justificacion/01_justificacion_problema_negocio.ipynb)
+  
   
 - [Definición del problema de Machine Learning.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/documentacion/definicion_del_problema_ml.ipynb)
 
-  [Justificación y decisiones adoptadas.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/justificacion/02_justificaci%C3%B3n_problema_ml.ipynb)
+  [Justificación del problema de Machine Learning.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/justificacion/02_justificaci%C3%B3n_problema_ml.ipynb)
+  
   
 - [Definición del target.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/documentacion/definicion_del_target.ipynb)
 
-  [Justificación y decisiones adoptadas.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/justificacion/03_justificaci%C3%B3n_target.ipynb)
+  [Justificación definición del target.](https://github.com/EuniceGarcia503/FlightOnTime-DS/blob/main/docs/justificacion/03_justificaci%C3%B3n_target.ipynb)
+  
    
-- [Descripción y comprensión del dataset.](ruta)  
-- [Exploración de datos (EDA) enfocada en conclusiones.](ruta)  
+- [Descripción y comprensión del dataset.](ruta)
+
+  [Justificación para la elección del dataset.](ruta)
+  
+- [Exploración de datos (EDA) enfocada en conclusiones.](ruta)
 - [Preparación de datos para el modelado.](ruta)  
 - [Feature engineering con foco en información disponible antes del despegue.](ruta)  
 - [Selección de un modelo adecuado para un MVP.](ruta)  
